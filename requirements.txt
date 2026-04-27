@@ -4,4 +4,4 @@ lightgbm
 numpy
 pandas
 gunicorn
-lightgbm==4.3.0
+cmake
